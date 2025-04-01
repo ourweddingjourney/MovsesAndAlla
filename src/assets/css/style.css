@@ -388,8 +388,7 @@
 @media (min-width: 20px) and (max-width: 576px) {
 
     .container {
-        /* background: url(../images/ANDR-251.jpg); */
-        background-position: center;
+        background-position: center top;
         background-size: cover;
     }
 
