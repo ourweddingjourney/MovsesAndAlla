@@ -1,7 +1,15 @@
 import React, { useState, useEffect } from "react";
 
 
+
+
 const Abstract = () => {
+    useEffect(() => {
+    console.log("Width:", window.innerWidth);
+    console.log("DPR:", window.devicePixelRatio);
+    alert("Width:" + window.innerWidth + "DPR:" + window.devicePixelRatio);
+  }, []);
+
 
   return (
     <div className="container">
@@ -17,7 +25,7 @@ const Abstract = () => {
         <p className="tagline">Our forever begins today</p>
       </div>
       
-      <div className="shadebutton"></div>
+          <div className="shadebutton"></div>
     </div>
   );
 };
