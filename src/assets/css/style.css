@@ -388,7 +388,7 @@
 @media (max-width: 576px) {
 
     .container {
-        background-size: cover;
+        background-size: 120%;
         background-position: center;
     }
 
