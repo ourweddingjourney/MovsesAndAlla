@@ -385,11 +385,12 @@
 }
 
 
-@media (max-width: 576px) {
+@media (min-width: 20px) and (max-width: 576px) {
 
     .container {
-        background-size: 150%;
+        background: url(../images/ANDR-251.jpg);
         background-position: center;
+        background-size: cover;
     }
 
     .header {
