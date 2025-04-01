@@ -73,28 +73,28 @@ function Program() {
             <div className="day-program">
                 <span className="title">Օրվա Ծրագիրը</span>
                 <p>
-                    <Hearts_Bride width={75} height={75} fill="#5a4d47" />
+                    <Hearts_Bride className="icon" fill="#5a4d47" />
                     <div>
                         <p>13:00</p>
                         <span>Հարսի Տուն</span>
                     </div>
                 </p>
                 <p>
-                    <WeddingRing width={75} height={75} fill="#5a4d47" />
+                    <WeddingRing className="icon" fill="#5a4d47" />
                     <div>
                         <p>14:30</p>
                         <span>Պսակադրություն</span>
                     </div>
                 </p>
                 <p>
-                    <Hearts_Groom width={75} height={75} fill="#5a4d47" />
+                    <Hearts_Groom className="icon" fill="#5a4d47" />
                     <div>
                         <p>16:00</p>
                         <span>Փեսայի Տուն</span>
                     </div>
                 </p>
                 <p>
-                    <Cheers width={75} height={75} fill="#5a4d47" />
+                    <Cheers className="icon" fill="#5a4d47" />
                     <div>
                         <p>17:30</p>
                         <span>Հարսանյաց Հանդիսություն</span>
@@ -121,10 +121,8 @@ function Program() {
                         {openMaps[index] && (
                             <div className="map-container">
                                 <iframe
+                                    className="map-iframe"
                                     src={venue.mapEmbed}
-                                    width="1000"
-                                    height="600"
-                                    style={{ border: 0, marginTop: "20px" }}
                                     allowFullScreen=""
                                     loading="lazy"
                                 ></iframe>
@@ -135,7 +133,7 @@ function Program() {
             </div>
             <span className="guestlist">
                 Հյուրերի ցուցակը և սեղանների դասավորությունը կարող ես տեսնել{" "}
-                <span onClick={handleInfo} style={{ background: "none", border: "none", cursor: "pointer", textDecoration: "underline" }}>այստեղ</span>
+                <span onClick={handleInfo} style={{ background: "none", border: "none", cursor: "pointer", textDecoration: "underline" }}>այստեղ</span>:
             </span>
             {showModal && <GuestList onClose={handleModalClose} />}
             <WeddingIcon width={150} height={150} fill="#5a4d47" />

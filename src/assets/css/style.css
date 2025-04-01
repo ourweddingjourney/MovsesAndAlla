@@ -167,6 +167,7 @@
 
 .letter p {
     margin-top: 40px;
+    margin-bottom: 20px;
 }
 
 .photos {
@@ -194,6 +195,7 @@
     position: absolute;
     right: -275px;
     top: 100px;
+    z-index: 1;
 }
 
 .day-program {
@@ -213,6 +215,11 @@
     margin-top: 50px;
 }
 
+.icon {
+    width: 75px;
+    height: 75px;
+}
+
 .day-program p {
     width: 150%;
     display: flex;
@@ -228,7 +235,6 @@
     font-weight: bold;
     line-height: 42px;
 }
-
 
 .venues-container {
     width: 100%;
@@ -276,10 +282,19 @@
     margin-top: 20px;
 }
 
+.map-iframe {
+    width: 1000px;
+    height: 500px;
+    margin-top: 20px;
+    border: 0;
+}
+
 .guestlist {
     font-size: 24px;
     color: #5a4d47;
     margin-bottom: 50px;
+    text-align: center;
+    width: 90%;
 }
 
 .modal-overlay {
@@ -308,7 +323,7 @@
 
 .modal {
     background-color: #D3C2AA;
-    width: 60%;
+    width: 80%;
     max-height: 90vh;
     overflow-y: auto;
     border-radius: 8px;
@@ -316,6 +331,7 @@
     position: relative;
     margin: 20px;
     box-sizing: border-box;
+    text-align: center;
     z-index: 100;
     animation: expand-center 0.5s ease 0s 1 normal forwards;
 }
@@ -366,4 +382,388 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+@media (max-width: 576px) {
+
+    .container {
+        background-position: center;
+    }
+
+    .header {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    .couple-details {
+        font-size: 36px;
+        margin-top: 20vh;
+    }
+
+    .initials {
+        margin-top: 36vh;
+        width: 250px;
+        height: 100px;
+        font-size: 100px;
+    }
+
+    .initial-m {
+        top: 50px;
+        left: 90px;
+    }
+
+    .waiting {
+        font-size: 20px;
+    }
+
+    .countdown {
+        gap: 10px;
+    }
+
+    .time-box {
+        font-size: 36px;
+        width: 65px;
+    }
+
+    .time-box p {
+        font-size: 12px;
+    }
+
+    .letter {
+        width: 300px;
+        font-size: 12px;
+    }
+
+    .letter span {
+        font-size: 20px;
+    }
+
+    .letter p {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .photos {
+        width: 250px;
+        height: 625px;
+    }
+
+    .photo1 {
+        width: 150px;
+        top: 250px;
+        left: -25px;
+    }
+
+    .photo2 {
+        right: -25px;
+        width: 250px;
+    }
+
+    .photo3 {
+        width: 150px;
+        position: absolute;
+        right: 0;
+        top: 350px;
+    }
+
+    .day-program {
+        width: 200px;
+        height: 350px;
+        font-size: 12px;
+    }
+
+    .day-program .title {
+        font-size: 20px;
+    }
+
+    .icon {
+        width: 50px;
+        height: 50px;
+    }
+
+    .day-program p {
+        gap: 25px;
+        width: 120%;
+        margin-top: 20px;
+    }
+
+    .day-program p p {
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .venue {
+        margin-bottom: 25px;
+    }
+
+    .venue-title {
+        font-size: 16px;
+    }
+
+    .venue-address {
+        font-size: 12px;
+    }
+
+    .venue-button {
+        padding: 6px 12px;
+        font-size: 8px;
+    }
+
+    .map-container {
+        margin-top: 10px;
+    }
+
+    .map-iframe {
+        width: 300px;
+        height: 150px;
+    }
+
+    .guestlist {
+        font-size: 12px;
+    }
+
+    .modal h2 {
+        font-size: 16px;
+    }
+
+    .modal-close {
+        width: 25px;
+        height: 25px;
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+
+    .header {
+        font-size: 24px;
+        margin-bottom: 40px;
+    }
+
+    .couple-details {
+        font-size: 44px;
+    }
+
+    .waiting {
+        font-size: 28px;
+    }
+
+    .countdown {
+        gap: 20px;
+    }
+
+    .time-box {
+        font-size: 44px;
+        width: 100px;
+    }
+
+    .time-box p {
+        font-size: 16px;
+    }
+
+    .letter {
+        width: 450px;
+        font-size: 20px;
+    }
+
+    .letter span {
+        font-size: 28px;
+        font-weight: bold;
+        font-style: oblique;
+    }
+
+    .letter p {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .photos {
+        width: 300px;
+        height: 650px;
+    }
+
+    .photo1 {
+        width: 200px;
+        top: 100px;
+        left: -100px;
+    }
+
+    .photo2 {
+        right: -75px;
+        width: 300px;
+    }
+
+    .photo3 {
+        width: 200px;
+        position: absolute;
+        right: 100px;
+        top: 300px;
+    }
+
+    .day-program {
+        width: 250px;
+        height: 500px;
+        font-size: 16px;
+    }
+
+    .day-program .title {
+        font-size: 28px;
+    }
+
+    .icon {
+        width: 50px;
+        height: 50px;
+    }
+
+    .day-program p {
+        width: 120%;
+    }
+
+    .day-program p p {
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+
+    .venue-title {
+        font-size: 24px;
+    }
+
+    .venue-address {
+        font-size: 20px;
+    }
+
+    .venue-button {
+        padding: 8px 16px;
+        font-size: 12px;
+    }
+
+    .map-iframe {
+        width: 500px;
+        height: 250px;
+        margin-top: 20px;
+        border: 0;
+    }
+
+    .guestlist {
+        font-size: 16px;
+    }
+
+    .modal h2 {
+        font-size: 20px;
+    }
+
+    .modal-close {
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+
+    .header {
+        font-size: 32px;
+    }
+
+    .waiting {
+        font-size: 32px;
+    }
+
+    .countdown {
+        gap: 32px;
+    }
+
+    .time-box {
+        font-size: 44px;
+        width: 125px;
+    }
+
+    .time-box p {
+        font-size: 20px;
+    }
+
+    .photos {
+        width: 300px;
+        height: 550px;
+    }
+
+    .photo1 {
+        width: 200px;
+        top: 100px;
+        left: -175px;
+    }
+
+    .photo2 {
+        width: 300px;
+    }
+
+    .photo3 {
+        width: 200px;
+        right: -175px;
+        top: 50px;
+    }
+
+    .day-program {
+        font-size: 20px;
+    }
+
+    .day-program .title {
+        font-size: 40px;
+    }
+
+    .day-program p p {
+        font-size: 40px;
+    }
+
+    .map-iframe {
+        width: 600px;
+        height: 300px;
+        margin-top: 20px;
+        border: 0;
+    }
+
+    .guestlist {
+        font-size: 20px;
+    }
+
+    .modal-close {
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+
+    .time-box {
+        font-size: 50px;
+        width: 150px;
+    }
+
+    .photos {
+        width: 350px;
+        height: 600px;
+    }
+
+    .photo1 {
+        width: 250px;
+        left: -225px;
+    }
+
+    .photo2 {
+        width: 350px;
+        position: absolute;
+    }
+
+    .photo3 {
+        width: 250px;
+        right: -225px;
+    }
+
+    .map-iframe {
+        width: 800px;
+        height: 400px;
+    }
 }
