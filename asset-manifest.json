@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MovsesAndAlla/static/css/main.55d70df3.css",
+    "main.css": "/MovsesAndAlla/static/css/main.85a7af89.css",
     "main.js": "/MovsesAndAlla/static/js/main.997627d3.js",
     "static/js/453.a97fe203.chunk.js": "/MovsesAndAlla/static/js/453.a97fe203.chunk.js",
     "static/media/ANDR-48.jpg": "/MovsesAndAlla/static/media/ANDR-48.403558801d98dde715d2.jpg",
@@ -17,12 +17,12 @@
     "static/media/love-birds-svgrepo-com.svg": "/MovsesAndAlla/static/media/love-birds-svgrepo-com.f14756bcb987afd5e550911d30ecca2c.svg",
     "static/media/wedding-rings-svgrepo-com.svg": "/MovsesAndAlla/static/media/wedding-rings-svgrepo-com.66fde0f7c35a39bc36163657666b9e71.svg",
     "index.html": "/MovsesAndAlla/index.html",
-    "main.55d70df3.css.map": "/MovsesAndAlla/static/css/main.55d70df3.css.map",
+    "main.85a7af89.css.map": "/MovsesAndAlla/static/css/main.85a7af89.css.map",
     "main.997627d3.js.map": "/MovsesAndAlla/static/js/main.997627d3.js.map",
     "453.a97fe203.chunk.js.map": "/MovsesAndAlla/static/js/453.a97fe203.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55d70df3.css",
+    "static/css/main.85a7af89.css",
     "static/js/main.997627d3.js"
   ]
 }
