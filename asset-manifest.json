@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.bd226bb2.css",
-    "main.js": "/my-react-app/static/js/main.0de2956f.js",
-    "static/js/453.a97fe203.chunk.js": "/my-react-app/static/js/453.a97fe203.chunk.js",
-    "static/media/ANDR-48.jpg": "/my-react-app/static/media/ANDR-48.403558801d98dde715d2.jpg",
-    "static/media/ANDR-26.jpg": "/my-react-app/static/media/ANDR-26.fff955c10693cef863cd.jpg",
-    "static/media/ANDR-7.jpg": "/my-react-app/static/media/ANDR-7.7a8ef524d88f8773491e.jpg",
-    "static/media/ANDR-14.jpg": "/my-react-app/static/media/ANDR-14.3fa1271b2c0f107555be.jpg",
-    "static/media/ANDR-33.jpg": "/my-react-app/static/media/ANDR-33.b3ea0fb96c31772c0ddb.jpg",
-    "static/media/ANDR-51.jpg": "/my-react-app/static/media/ANDR-51.ba51c630d1447cb615bd.jpg",
-    "static/media/ANDR-25.jpg": "/my-react-app/static/media/ANDR-25.8513ce213abb2d27dc79.jpg",
-    "static/media/may-flowers-are-illuminated-by-light-that-makes-them-look-warm-photo.jpeg": "/my-react-app/static/media/may-flowers-are-illuminated-by-light-that-makes-them-look-warm-photo.f4de90f03c3b74993510.jpeg",
-    "static/media/hearts-love-svgrepo-com.svg": "/my-react-app/static/media/hearts-love-svgrepo-com.83714e1b789f3fb7fcf23ba96d815eb1.svg",
-    "static/media/hearts-heart-svgrepo-com.svg": "/my-react-app/static/media/hearts-heart-svgrepo-com.b29bce59e1e139fe6ae749e428fe268c.svg",
-    "static/media/cheers-toast-svgrepo-com.svg": "/my-react-app/static/media/cheers-toast-svgrepo-com.e4545dad40e700a00bf9da7c320f34f4.svg",
-    "static/media/love-birds-svgrepo-com.svg": "/my-react-app/static/media/love-birds-svgrepo-com.f14756bcb987afd5e550911d30ecca2c.svg",
-    "static/media/wedding-rings-svgrepo-com.svg": "/my-react-app/static/media/wedding-rings-svgrepo-com.66fde0f7c35a39bc36163657666b9e71.svg",
-    "index.html": "/my-react-app/index.html",
-    "main.bd226bb2.css.map": "/my-react-app/static/css/main.bd226bb2.css.map",
-    "main.0de2956f.js.map": "/my-react-app/static/js/main.0de2956f.js.map",
-    "453.a97fe203.chunk.js.map": "/my-react-app/static/js/453.a97fe203.chunk.js.map"
+    "main.css": "/movsesandalla/static/css/main.45665d81.css",
+    "main.js": "/movsesandalla/static/js/main.a2cea462.js",
+    "static/js/453.a97fe203.chunk.js": "/movsesandalla/static/js/453.a97fe203.chunk.js",
+    "static/media/ANDR-48.jpg": "/movsesandalla/static/media/ANDR-48.403558801d98dde715d2.jpg",
+    "static/media/ANDR-26.jpg": "/movsesandalla/static/media/ANDR-26.fff955c10693cef863cd.jpg",
+    "static/media/ANDR-7.jpg": "/movsesandalla/static/media/ANDR-7.7a8ef524d88f8773491e.jpg",
+    "static/media/ANDR-14.jpg": "/movsesandalla/static/media/ANDR-14.3fa1271b2c0f107555be.jpg",
+    "static/media/ANDR-33.jpg": "/movsesandalla/static/media/ANDR-33.b3ea0fb96c31772c0ddb.jpg",
+    "static/media/ANDR-51.jpg": "/movsesandalla/static/media/ANDR-51.ba51c630d1447cb615bd.jpg",
+    "static/media/ANDR-25.jpg": "/movsesandalla/static/media/ANDR-25.8513ce213abb2d27dc79.jpg",
+    "static/media/may-flowers-are-illuminated-by-light-that-makes-them-look-warm-photo.jpeg": "/movsesandalla/static/media/may-flowers-are-illuminated-by-light-that-makes-them-look-warm-photo.f4de90f03c3b74993510.jpeg",
+    "static/media/hearts-love-svgrepo-com.svg": "/movsesandalla/static/media/hearts-love-svgrepo-com.83714e1b789f3fb7fcf23ba96d815eb1.svg",
+    "static/media/hearts-heart-svgrepo-com.svg": "/movsesandalla/static/media/hearts-heart-svgrepo-com.b29bce59e1e139fe6ae749e428fe268c.svg",
+    "static/media/cheers-toast-svgrepo-com.svg": "/movsesandalla/static/media/cheers-toast-svgrepo-com.e4545dad40e700a00bf9da7c320f34f4.svg",
+    "static/media/love-birds-svgrepo-com.svg": "/movsesandalla/static/media/love-birds-svgrepo-com.f14756bcb987afd5e550911d30ecca2c.svg",
+    "static/media/wedding-rings-svgrepo-com.svg": "/movsesandalla/static/media/wedding-rings-svgrepo-com.66fde0f7c35a39bc36163657666b9e71.svg",
+    "index.html": "/movsesandalla/index.html",
+    "main.45665d81.css.map": "/movsesandalla/static/css/main.45665d81.css.map",
+    "main.a2cea462.js.map": "/movsesandalla/static/js/main.a2cea462.js.map",
+    "453.a97fe203.chunk.js.map": "/movsesandalla/static/js/453.a97fe203.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd226bb2.css",
-    "static/js/main.0de2956f.js"
+    "static/css/main.45665d81.css",
+    "static/js/main.a2cea462.js"
   ]
 }
