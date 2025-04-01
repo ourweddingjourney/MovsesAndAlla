@@ -387,6 +387,11 @@
 
 @media (max-width: 576px) {
 
+    .container {
+        background-size: cover;
+        background-position: center;
+    }
+
     .header {
         font-size: 20px;
         margin-bottom: 40px;
