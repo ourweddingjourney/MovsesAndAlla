@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MovsesAndAlla/static/css/main.51c127b4.css",
+    "main.css": "/MovsesAndAlla/static/css/main.b372997b.css",
     "main.js": "/MovsesAndAlla/static/js/main.1bd10a60.js",
     "static/js/453.a97fe203.chunk.js": "/MovsesAndAlla/static/js/453.a97fe203.chunk.js",
     "static/media/ANDR-48.jpg": "/MovsesAndAlla/static/media/ANDR-48.403558801d98dde715d2.jpg",
@@ -10,7 +10,6 @@
     "static/media/ANDR-33.jpg": "/MovsesAndAlla/static/media/ANDR-33.b3ea0fb96c31772c0ddb.jpg",
     "static/media/ANDR-51.jpg": "/MovsesAndAlla/static/media/ANDR-51.ba51c630d1447cb615bd.jpg",
     "static/media/ANDR-25.jpg": "/MovsesAndAlla/static/media/ANDR-25.8513ce213abb2d27dc79.jpg",
-    "static/media/ANDR-251.jpg": "/MovsesAndAlla/static/media/ANDR-251.8d2f21da5a19b7700f1c.jpg",
     "static/media/may-flowers-are-illuminated-by-light-that-makes-them-look-warm-photo.jpeg": "/MovsesAndAlla/static/media/may-flowers-are-illuminated-by-light-that-makes-them-look-warm-photo.f4de90f03c3b74993510.jpeg",
     "static/media/hearts-love-svgrepo-com.svg": "/MovsesAndAlla/static/media/hearts-love-svgrepo-com.83714e1b789f3fb7fcf23ba96d815eb1.svg",
     "static/media/hearts-heart-svgrepo-com.svg": "/MovsesAndAlla/static/media/hearts-heart-svgrepo-com.b29bce59e1e139fe6ae749e428fe268c.svg",
@@ -18,12 +17,12 @@
     "static/media/love-birds-svgrepo-com.svg": "/MovsesAndAlla/static/media/love-birds-svgrepo-com.f14756bcb987afd5e550911d30ecca2c.svg",
     "static/media/wedding-rings-svgrepo-com.svg": "/MovsesAndAlla/static/media/wedding-rings-svgrepo-com.66fde0f7c35a39bc36163657666b9e71.svg",
     "index.html": "/MovsesAndAlla/index.html",
-    "main.51c127b4.css.map": "/MovsesAndAlla/static/css/main.51c127b4.css.map",
+    "main.b372997b.css.map": "/MovsesAndAlla/static/css/main.b372997b.css.map",
     "main.1bd10a60.js.map": "/MovsesAndAlla/static/js/main.1bd10a60.js.map",
     "453.a97fe203.chunk.js.map": "/MovsesAndAlla/static/js/453.a97fe203.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51c127b4.css",
+    "static/css/main.b372997b.css",
     "static/js/main.1bd10a60.js"
   ]
 }
