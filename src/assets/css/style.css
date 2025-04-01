@@ -39,7 +39,6 @@
     text-align: center;
     font-family: "Georgia", serif;
     background: url(../images/ANDR-25.jpg);
-    background-position: center top;
     background-size: cover;
     padding: 20px;
     min-height: 100vh;
@@ -387,6 +386,11 @@
 
 
 @media (min-width: 20px) and (max-width: 576px) {
+
+    .container {
+        background-position: center top;
+        background-size: cover;
+    }
 
     .header {
         font-size: 20px;
